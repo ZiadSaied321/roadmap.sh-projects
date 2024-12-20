@@ -5,7 +5,6 @@ This project involves creating a structured CV web page using semantic HTML alon
 
 ## Project URL
 [project URL](https://roadmap.sh/projects/single-page-cv)
-
 ## Key Features
 - **Semantic HTML**: Utilized proper HTML tags for better structure and accessibility.
 - **SEO Optimization**: Added essential meta tags in the head section to improve search engine visibility.
