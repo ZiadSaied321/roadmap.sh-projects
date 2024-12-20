@@ -3,8 +3,8 @@
 ## Overview
 This project involves creating a structured CV web page using semantic HTML along with incorporating SEO optimization and Open Graph (OG) tags. The page is designed to have a clear and organized structure, suitable for further styling and customization.
 
-## Project source
-[roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+## Project URL
+[project URL](https://roadmap.sh/projects/single-page-cv)
 
 ## Key Features
 - **Semantic HTML**: Utilized proper HTML tags for better structure and accessibility.
